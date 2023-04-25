@@ -1,2 +1,2 @@
-valid_email = 'fortestlesson@gmail.com'
+valid_email = 'viktoriquafox@gmail.com'
 valid_password = 'qwerty'
